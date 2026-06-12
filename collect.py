@@ -21,6 +21,19 @@ UNIVERSE = {
     # Sectors (rotation research)
     "XLK": "Tech", "XLE": "Energy", "XLF": "Financials", "XLV": "Health",
     "XLI": "Industrials", "XLP": "Staples", "XLU": "Utilities", "XLY": "Discretionary",
+
+    # S&P 100 individual stocks (swing universe)
+    "AAPL": "", "MSFT": "", "NVDA": "", "AMZN": "", "GOOGL": "", "META": "", "TSLA": "", "AVGO": "", "BRK-B": "", "JPM": "",
+    "LLY": "", "V": "", "UNH": "", "XOM": "", "MA": "", "COST": "", "HD": "", "PG": "", "JNJ": "", "WMT": "",
+    "NFLX": "", "BAC": "", "CRM": "", "ABBV": "", "ORCL": "", "CVX": "", "WFC": "", "KO": "", "MRK": "", "CSCO": "",
+    "ACN": "", "ADBE": "", "AMD": "", "PEP": "", "LIN": "", "TMO": "", "MCD": "", "ABT": "", "PM": "", "IBM": "",
+    "GE": "", "INTU": "", "CAT": "", "QCOM": "", "TXN": "", "DIS": "", "VZ": "", "AMGN": "", "ISRG": "", "NOW": "",
+    "BKNG": "", "GS": "", "NEE": "", "SPGI": "", "RTX": "", "HON": "", "UBER": "", "PFE": "", "CMCSA": "", "T": "",
+    "LOW": "", "UNP": "", "AXP": "", "BLK": "", "COP": "", "MS": "", "SYK": "", "SCHW": "", "ETN": "", "AMAT": "",
+    "BMY": "", "BA": "", "C": "", "DE": "", "GILD": "", "LMT": "", "MDT": "", "ADI": "", "SBUX": "", "MMC": "",
+    "PLD": "", "VRTX": "", "TJX": "", "REGN": "", "CB": "", "MU": "", "PANW": "", "LRCX": "", "KLAC": "", "ANET": "",
+    "CI": "", "SO": "", "MO": "", "ZTS": "", "FI": "", "DUK": "", "BX": "", "EQIX": "", "ELV": "", "APH": "",
+    "PYPL": "", "NKE": "",
     # Vol / breadth
     "^VIX": "VIX", "^GSPC": "S&P index", "^IXIC": "Nasdaq composite",
 }
